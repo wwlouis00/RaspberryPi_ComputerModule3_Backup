@@ -1,5 +1,5 @@
 # RaspberryPi_ComputerModule3B_Backup
-- 首先在Linux或虛擬機linux裡面可以執行
+- Linux(Ubuntu)或是虛擬機
 ## 設置好Rpiboot_setup驅動
 1. 先安裝git
 ```sh
